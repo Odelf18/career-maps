@@ -143,3 +143,16 @@
 header {
   z-index: 40 !important;
 }
+
+/* Make popup more compact on mobile */
+@media (max-width: 640px) {
+  .leaflet-popup-content-wrapper {
+    max-width: 280px !important;
+  }
+
+  .leaflet-popup-content {
+    max-height: 300px !important;
+    overflow-y: auto !important;
+    margin: 8px 10px !important;
+  }
+}

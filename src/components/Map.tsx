@@ -5,7 +5,7 @@ import { MapContainer, TileLayer, Marker, Popup, useMap } from "react-leaflet";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import { Employer } from "@/types/employer";
-import { CompanyCard } from "./CompanyCard";
+import { CompanyCardCompact } from "./CompanyCardCompact";
 
 // Fix for default marker icon
 delete (L.Icon.Default.prototype as any)._getIconUrl;
@@ -57,8 +57,8 @@ export function Map({ employers }: MapProps) {
             key={employer.id}
             position={[employer.lat, employer.lng]}
           >
-            <Popup maxWidth={400} className="company-popup">
-              <CompanyCard employer={employer} />
+            <Popup maxWidth={300} minWidth={280} className="company-popup">
+              <CompanyCardCompact employer={employer} />
             </Popup>
           </Marker>
         ))}
