@@ -120,3 +120,26 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* Fix z-index for Leaflet map to prevent it from covering dropdowns */
+.leaflet-container {
+  z-index: 1 !important;
+}
+
+.leaflet-pane {
+  z-index: 1 !important;
+}
+
+.leaflet-popup {
+  z-index: 2 !important;
+}
+
+/* Ensure shadcn select dropdowns appear above the map */
+[data-radix-popper-content-wrapper] {
+  z-index: 50 !important;
+}
+
+/* Ensure header stays on top */
+header {
+  z-index: 40 !important;
+}
