@@ -139,12 +139,12 @@ export default function Home() {
       <main className="container mx-auto px-4 py-6">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 h-[calc(100vh-280px)] lg:h-[calc(100vh-240px)]">
           {/* Map */}
-          <div className="order-2 lg:order-1 h-[500px] lg:h-full">
+          <div className="order-1 lg:order-1 h-[500px] lg:h-full">
             <Map employers={filteredEmployers} />
           </div>
 
           {/* Company list */}
-          <div className="order-1 lg:order-2 overflow-y-auto space-y-4 h-[500px] lg:h-full pr-2">
+          <div className="order-2 lg:order-2 overflow-y-auto space-y-4 h-[500px] lg:h-full pr-2">
             {filteredEmployers.length === 0 ? (
               <div className="flex items-center justify-center h-full">
                 <div className="text-center space-y-2">
