@@ -1,0 +1,422 @@
+[
+  {
+    "id": "1",
+    "name": "Capital One",
+    "industry": "Finance",
+    "address": "1680 Capital One Dr, Richmond, VA 23238",
+    "lat": 37.5945,
+    "lng": -77.4932,
+    "careerUrl": "https://www.capitalonecareers.com",
+    "jobPostings": [
+      {
+        "title": "Senior Software Engineer",
+        "tags": ["React", "TypeScript", "AWS", "Senior", "Remote"]
+      },
+      {
+        "title": "Data Scientist",
+        "tags": ["Python", "Machine Learning", "SQL", "Mid-level", "Hybrid"]
+      },
+      {
+        "title": "DevOps Engineer",
+        "tags": ["Kubernetes", "CI/CD", "Cloud", "Senior", "Remote"]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "CarMax",
+    "industry": "Retail",
+    "address": "12800 Tuckahoe Creek Pkwy, Richmond, VA 23238",
+    "lat": 37.5926,
+    "lng": -77.5691,
+    "careerUrl": "https://careers.carmax.com",
+    "jobPostings": [
+      {
+        "title": "Full Stack Developer",
+        "tags": ["JavaScript", "Node.js", "React", "Mid-level", "Hybrid"]
+      },
+      {
+        "title": "UX Designer",
+        "tags": ["Figma", "User Research", "Design Systems", "Mid-level", "On-site"]
+      },
+      {
+        "title": "Product Manager",
+        "tags": ["Agile", "Product Strategy", "Analytics", "Senior", "Hybrid"]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Altria",
+    "industry": "Manufacturing",
+    "address": "6601 W Broad St, Richmond, VA 23230",
+    "lat": 37.5927,
+    "lng": -77.5153,
+    "careerUrl": "https://www.altria.com/careers",
+    "jobPostings": [
+      {
+        "title": "Business Analyst",
+        "tags": ["Excel", "SQL", "Analytics", "Entry-level", "On-site"]
+      },
+      {
+        "title": "Supply Chain Manager",
+        "tags": ["Logistics", "SAP", "Operations", "Senior", "On-site"]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Dominion Energy",
+    "industry": "Energy",
+    "address": "120 Tredegar St, Richmond, VA 23219",
+    "lat": 37.5316,
+    "lng": -77.4308,
+    "careerUrl": "https://careers.dominionenergy.com",
+    "jobPostings": [
+      {
+        "title": "Software Developer",
+        "tags": ["Java", "Spring Boot", "PostgreSQL", "Mid-level", "Hybrid"]
+      },
+      {
+        "title": "Cloud Architect",
+        "tags": ["Azure", "Terraform", "Security", "Senior", "Remote"]
+      },
+      {
+        "title": "Project Manager",
+        "tags": ["PMP", "Agile", "Energy Sector", "Senior", "On-site"]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "VCU Health System",
+    "industry": "Healthcare",
+    "address": "1250 E Marshall St, Richmond, VA 23298",
+    "lat": 37.5416,
+    "lng": -77.4302,
+    "careerUrl": "https://www.vcuhealth.org/careers",
+    "jobPostings": [
+      {
+        "title": "Healthcare IT Specialist",
+        "tags": ["Epic", "HL7", "Healthcare", "Mid-level", "On-site"]
+      },
+      {
+        "title": "Data Analyst",
+        "tags": ["Python", "Tableau", "Healthcare Analytics", "Entry-level", "Hybrid"]
+      },
+      {
+        "title": "Cybersecurity Analyst",
+        "tags": ["HIPAA", "Security", "Compliance", "Mid-level", "On-site"]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "CoStar Group",
+    "industry": "Technology",
+    "address": "501 S 5th St, Richmond, VA 23219",
+    "lat": 37.5372,
+    "lng": -77.4383,
+    "careerUrl": "https://www.costargroup.com/careers",
+    "jobPostings": [
+      {
+        "title": "Front-End Developer",
+        "tags": ["React", "Vue.js", "CSS", "Mid-level", "Remote"]
+      },
+      {
+        "title": "Backend Engineer",
+        "tags": ["Python", "Django", "REST API", "Senior", "Remote"]
+      },
+      {
+        "title": "QA Engineer",
+        "tags": ["Selenium", "Automation", "Testing", "Mid-level", "Hybrid"]
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Markel Corporation",
+    "industry": "Finance",
+    "address": "4521 Highwoods Pkwy, Glen Allen, VA 23060",
+    "lat": 37.6526,
+    "lng": -77.5916,
+    "careerUrl": "https://www.markel.com/careers",
+    "jobPostings": [
+      {
+        "title": "Financial Analyst",
+        "tags": ["Excel", "Financial Modeling", "Insurance", "Entry-level", "On-site"]
+      },
+      {
+        "title": "Underwriter",
+        "tags": ["Risk Assessment", "Insurance", "Analytics", "Mid-level", "Hybrid"]
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Hourigan",
+    "industry": "Construction",
+    "address": "2700 N Parham Rd, Richmond, VA 23294",
+    "lat": 37.6161,
+    "lng": -77.5664,
+    "careerUrl": "https://www.hourigan.com/careers",
+    "jobPostings": [
+      {
+        "title": "Project Manager",
+        "tags": ["Construction", "Project Management", "Leadership", "Senior", "On-site"]
+      },
+      {
+        "title": "Estimator",
+        "tags": ["Cost Analysis", "Blueprints", "Construction", "Mid-level", "On-site"]
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "The Martin Agency",
+    "industry": "Professional Services",
+    "address": "1 Shockoe Plz, Richmond, VA 23219",
+    "lat": 37.5358,
+    "lng": -77.4324,
+    "careerUrl": "https://www.martinagency.com/careers",
+    "jobPostings": [
+      {
+        "title": "Creative Director",
+        "tags": ["Advertising", "Creative", "Leadership", "Senior", "On-site"]
+      },
+      {
+        "title": "Copywriter",
+        "tags": ["Writing", "Creative", "Marketing", "Mid-level", "Hybrid"]
+      },
+      {
+        "title": "Digital Designer",
+        "tags": ["Adobe Creative Suite", "Web Design", "Branding", "Mid-level", "Hybrid"]
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "WillowTree",
+    "industry": "Technology",
+    "address": "107 S 14th St, Richmond, VA 23219",
+    "lat": 37.5401,
+    "lng": -77.4266,
+    "careerUrl": "https://www.willowtreeapps.com/careers",
+    "jobPostings": [
+      {
+        "title": "iOS Developer",
+        "tags": ["Swift", "iOS", "Mobile", "Mid-level", "Remote"]
+      },
+      {
+        "title": "Android Developer",
+        "tags": ["Kotlin", "Android", "Mobile", "Mid-level", "Remote"]
+      },
+      {
+        "title": "Product Designer",
+        "tags": ["Figma", "UI/UX", "Mobile Design", "Senior", "Remote"]
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "CapTech Consulting",
+    "industry": "Professional Services",
+    "address": "3100 W Broad St, Richmond, VA 23230",
+    "lat": 37.5561,
+    "lng": -77.4819,
+    "careerUrl": "https://www.captechconsulting.com/careers",
+    "jobPostings": [
+      {
+        "title": "Technology Consultant",
+        "tags": ["Consulting", "Digital Transformation", "Strategy", "Mid-level", "Hybrid"]
+      },
+      {
+        "title": "Salesforce Developer",
+        "tags": ["Salesforce", "Apex", "CRM", "Mid-level", "Remote"]
+      },
+      {
+        "title": "Data Engineer",
+        "tags": ["Spark", "Python", "Big Data", "Senior", "Remote"]
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "University of Richmond",
+    "industry": "Education",
+    "address": "28 Westhampton Way, Richmond, VA 23173",
+    "lat": 37.5765,
+    "lng": -77.5417,
+    "careerUrl": "https://richmond.edu/careers",
+    "jobPostings": [
+      {
+        "title": "IT Support Specialist",
+        "tags": ["Help Desk", "Windows", "Mac", "Entry-level", "On-site"]
+      },
+      {
+        "title": "Learning Management System Admin",
+        "tags": ["Canvas", "Education Tech", "Support", "Mid-level", "On-site"]
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "GRTC Transit System",
+    "industry": "Government",
+    "address": "301 E Belt Blvd, Richmond, VA 23224",
+    "lat": 37.5097,
+    "lng": -77.4375,
+    "careerUrl": "https://ridegrtc.com/careers",
+    "jobPostings": [
+      {
+        "title": "Transit Planner",
+        "tags": ["Urban Planning", "GIS", "Transportation", "Mid-level", "On-site"]
+      },
+      {
+        "title": "Maintenance Technician",
+        "tags": ["Mechanical", "Fleet Maintenance", "Transit", "Entry-level", "On-site"]
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Bon Secours Health System",
+    "industry": "Healthcare",
+    "address": "5801 Bremo Rd, Richmond, VA 23226",
+    "lat": 37.5946,
+    "lng": -77.5172,
+    "careerUrl": "https://careers.bonsecours.com",
+    "jobPostings": [
+      {
+        "title": "Registered Nurse",
+        "tags": ["Nursing", "Healthcare", "Patient Care", "Entry-level", "On-site"]
+      },
+      {
+        "title": "Medical Coder",
+        "tags": ["ICD-10", "Medical Billing", "Healthcare", "Mid-level", "Remote"]
+      },
+      {
+        "title": "Clinical Data Analyst",
+        "tags": ["SQL", "Healthcare Analytics", "EMR", "Mid-level", "Hybrid"]
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Owens & Minor",
+    "industry": "Healthcare",
+    "address": "9120 Lockwood Blvd, Mechanicsville, VA 23116",
+    "lat": 37.6084,
+    "lng": -77.3636,
+    "careerUrl": "https://www.owens-minor.com/careers",
+    "jobPostings": [
+      {
+        "title": "Supply Chain Analyst",
+        "tags": ["Logistics", "Analytics", "Healthcare Supply Chain", "Mid-level", "Hybrid"]
+      },
+      {
+        "title": "Warehouse Manager",
+        "tags": ["Operations", "Logistics", "Leadership", "Senior", "On-site"]
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Performance Food Group",
+    "industry": "Manufacturing",
+    "address": "12500 W Creek Pkwy, Richmond, VA 23238",
+    "lat": 37.6022,
+    "lng": -77.5832,
+    "careerUrl": "https://www.pfgc.com/careers",
+    "jobPostings": [
+      {
+        "title": "Operations Manager",
+        "tags": ["Food Distribution", "Operations", "Leadership", "Senior", "On-site"]
+      },
+      {
+        "title": "Logistics Coordinator",
+        "tags": ["Transportation", "Logistics", "Planning", "Entry-level", "On-site"]
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Stone Brewing",
+    "industry": "Manufacturing",
+    "address": "4300 Williamsburg Ave, Richmond, VA 23231",
+    "lat": 37.5484,
+    "lng": -77.3904,
+    "careerUrl": "https://www.stonebrewing.com/careers",
+    "jobPostings": [
+      {
+        "title": "Brewing Technician",
+        "tags": ["Brewing", "Manufacturing", "Quality Control", "Entry-level", "On-site"]
+      },
+      {
+        "title": "Marketing Coordinator",
+        "tags": ["Marketing", "Social Media", "Events", "Entry-level", "Hybrid"]
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Genworth Financial",
+    "industry": "Finance",
+    "address": "6620 W Broad St, Richmond, VA 23230",
+    "lat": 37.5927,
+    "lng": -77.5168,
+    "careerUrl": "https://www.genworth.com/careers",
+    "jobPostings": [
+      {
+        "title": "Actuarial Analyst",
+        "tags": ["Actuarial Science", "Insurance", "Analytics", "Entry-level", "Hybrid"]
+      },
+      {
+        "title": "Investment Analyst",
+        "tags": ["Finance", "Portfolio Management", "Research", "Mid-level", "On-site"]
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Snagajob",
+    "industry": "Technology",
+    "address": "4851 Lake Brook Dr, Glen Allen, VA 23060",
+    "lat": 37.6629,
+    "lng": -77.5016,
+    "careerUrl": "https://www.snagajob.com/careers",
+    "jobPostings": [
+      {
+        "title": "Software Engineer",
+        "tags": ["JavaScript", "React", "Node.js", "Mid-level", "Remote"]
+      },
+      {
+        "title": "Product Marketing Manager",
+        "tags": ["Marketing", "B2B", "Product Launch", "Senior", "Remote"]
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Virginia Commonwealth University",
+    "industry": "Education",
+    "address": "907 Floyd Ave, Richmond, VA 23284",
+    "lat": 37.5474,
+    "lng": -77.4537,
+    "careerUrl": "https://www.vcu.edu/careers",
+    "jobPostings": [
+      {
+        "title": "Web Developer",
+        "tags": ["PHP", "WordPress", "JavaScript", "Mid-level", "On-site"]
+      },
+      {
+        "title": "Research Coordinator",
+        "tags": ["Research", "Project Management", "Academia", "Entry-level", "On-site"]
+      },
+      {
+        "title": "Database Administrator",
+        "tags": ["SQL Server", "Database", "Performance Tuning", "Senior", "On-site"]
+      }
+    ]
+  }
+]
